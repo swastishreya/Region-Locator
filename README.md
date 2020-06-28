@@ -7,11 +7,11 @@ answered in O(log n ) time: Given a point p, which region does it belong to? n r
 
 ## Version Requirements
 
-gcc version : 7.3.0
-Python version : 2.7.15
+gcc version : 7.3.0 <br />
+Python version : 2.7.15 <br />
 
 ## Execution Commands
 
-g++ regLoc.cpp
-python testCaseGen.py > t1.txt
-./a.out < t1.txt > a1.txt
+g++ regLoc.cpp <br />
+python testCaseGen.py > t1.txt <br />
+./a.out < t1.txt > a1.txt <br />
